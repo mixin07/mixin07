@@ -31,16 +31,6 @@
 
 ---
 
-## 🧠 Projects I've Built
-
-- 📝 **Blog Website** – Dynamic content platform with clean UI  
-- 🌐 **Portfolio Website** – Personal showcase of skills & projects  
-- 🤖 **Smart Study AI Assistant** – AI-based learning support system  
-
-These projects helped me gain hands-on experience with backend logic, databases, and modern frameworks.
-
----
-
 ## 💻 Tech Stack:
 
 <p>
