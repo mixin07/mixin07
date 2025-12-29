@@ -67,10 +67,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mixin07&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mixin07&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mixin07&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mixin07&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
 </p>
-
 ---
 
 ## ✍️ Random Dev Quote
