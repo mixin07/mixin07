@@ -1,6 +1,6 @@
 <div align="center">
 
-# `MRIDHU`
+# MRIDHU
 
 ### Full-Stack Developer · AI Explorer · Builder
 
@@ -15,7 +15,7 @@
 
 ---
 
-## `01 / WHO AM I`
+## 01 / WHO AM I
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
@@ -40,7 +40,7 @@ My main focus is currently around **Full-Stack Development, Backend Engineering,
 
 ---
 
-## `02 / WHAT I BUILD`
+## 02 / WHAT I BUILD
 
 <table>
 <tr>
@@ -115,7 +115,7 @@ I also enjoy experimenting with:
 
 ---
 
-## `03 / CURRENTLY BUILDING`
+## 03 / CURRENTLY BUILDING
 
 ```yaml
 focus:
@@ -137,7 +137,7 @@ mindset:
 
 ---
 
-## `04 / TECH STACK`
+## 04 / TECH STACK
 
 ### Languages
 
@@ -177,7 +177,7 @@ mindset:
 
 ---
 
-## `05 / ENGINEERING PHILOSOPHY`
+## 05 / ENGINEERING PHILOSOPHY
 
 ```text
 I don't want to just learn frameworks.
@@ -207,7 +207,7 @@ The goal is to **know how to build**.
 
 ---
 
-## `06 / PROJECTS`
+## 06 / PROJECTS
 
 ### 🚀 Things I'm Building
 
@@ -222,7 +222,7 @@ The goal is to **know how to build**.
 
 ---
 
-## `07 / GITHUB ACTIVITY`
+## 07 / GITHUB ACTIVITY
 
 <div align="center">
 
@@ -242,7 +242,7 @@ The goal is to **know how to build**.
 
 ---
 
-## `08 / CONTRIBUTIONS`
+## 08 / CONTRIBUTIONS
 
 <div align="center">
 
@@ -252,7 +252,7 @@ The goal is to **know how to build**.
 
 ---
 
-## `09 / CONNECT`
+## 09 / CONNECT
 
 <div align="center">
 
