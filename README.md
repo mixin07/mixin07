@@ -2,37 +2,31 @@
 
 <img src="./assets/mridhu-banner.png" width="100%" alt="MRIDHU Banner" />
 
-<br>
-
 # MRIDHU
 
 ### Full-Stack Developer · AI Systems Builder · Creative Technologist
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=750&lines=Building+intelligent+full-stack+products;Exploring+AI+%26+agentic+systems;Designing+scalable+backend+systems;Experimenting+with+3D+%26+creative+web;Turning+ideas+into+deployed+products" alt="Typing Animation" />
+
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=750&lines=Building+intelligent+full-stack+products;Exploring+AI+%26+agentic+systems;Designing+scalable+backend+systems;Experimenting+with+3D+%26+creative+web;Turning+ideas+into+deployed+products" />
-
-<br><br>
-
 <a href="https://github.com/mixin07">
-<img src="https://img.shields.io/badge/GitHub-mixin07-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/j-mirudhula">
-<img src="https://img.shields.io/badge/LinkedIn-J._Mirudhula-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
-
+&nbsp;
 <a href="https://www.instagram.com/mixin._.07">
-<img src="https://img.shields.io/badge/Instagram-mixin._.07-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
 </a>
-
+&nbsp;
 <a href="https://x.com/Mirudhu71960401">
-<img src="https://img.shields.io/badge/X-Mirudhu71960401-000000?style=flat-square&logo=x&logoColor=white" />
+<img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" />
 </a>
 
 </div>
-
-<br>
 
 ---
 
@@ -48,17 +42,20 @@ My interests sit at the intersection of:
 
 ### CONCEPT → ARCHITECTURE → CODE → DATABASE → API → DEPLOYMENT → PRODUCTION
 
-<br>
-
 > Building things is how I learn.
 
 </div>
 
 ---
 
-## ⚡WHAT I BUILD
+## ⚡ WHAT I BUILD
 
-<table>
+<table width="100%">
+<tr>
+
+<td width="58%" valign="top">
+
+<table width="100%">
 <tr>
 
 <td width="50%" valign="top">
@@ -100,13 +97,28 @@ Projects combining software, hardware, AI and emerging technologies.
 </tr>
 </table>
 
+</td>
+
+<td width="42%" align="center" valign="middle">
+
+<img
+src="./assets/mridhu-hero-optimized.gif"
+width="100%"
+alt="MRIDHU Developer Animation"
+/>
+
+</td>
+
+</tr>
+</table>
+
 ---
 
 ## 💻 TECH STACK
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,react,nextjs,tailwind,vite,nodejs,express,fastapi,mysql,mongodb,postgres,supabase,firebase,git,github,linux,docker,vercel,postman,threejs" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,react,nextjs,tailwind,vite,nodejs,express,fastapi,mysql,mongodb,postgres,supabase,firebase,git,github,linux,docker,vercel,postman,threejs" alt="Tech Stack" />
 
 </div>
 
@@ -163,7 +175,7 @@ alt="GitHub Contribution Streak"
 <div align="center">
 
 <img
-src="https://github-profile-trophy.vercel.app/?username=mixin07&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"
+src="https://github-profile-trophy.vercel.app/?username=mixin07&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"
 width="100%"
 alt="GitHub Trophies"
 />
@@ -180,7 +192,7 @@ alt="GitHub Trophies"
 
 `INTERACTIVE EXPERIENCES` · `CREATIVE UI/UX` · `HARDWARE + SOFTWARE`
 
-<br><br>
+<br>
 
 The goal isn't just to make things work.
 
@@ -196,8 +208,6 @@ The goal isn't just to make things work.
 
 ### LEARN → BUILD → BREAK → DEBUG → IMPROVE → SHIP
 
-<br>
-
 I'm documenting the journey through projects, experiments and continuous iteration.
 
 </div>
@@ -209,69 +219,33 @@ I'm documenting the journey through projects, experiments and continuous iterati
 <div align="center">
 
 <a href="https://github.com/mixin07">
-<img src="https://img.shields.io/badge/GitHub-mixin07-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/j-mirudhula">
-<img src="https://img.shields.io/badge/LinkedIn-J._Mirudhula-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://www.instagram.com/mixin._.07">
-<img src="https://img.shields.io/badge/Instagram-mixin._.07-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <a href="https://x.com/Mirudhu71960401">
-<img src="https://img.shields.io/badge/X-Mirudhu71960401-000000?style=for-the-badge&logo=x&logoColor=white" />
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
-</div>
-
----
-
-## 💬 DEVELOPER PHILOSOPHY
-
-<div align="center">
-
-### CONCEPT → ARCHITECTURE → CODE → DEPLOY → ITERATE
-
 <br>
 
-**Learn by building.**
-
-**Improve through iteration.**
-
-**Turn ideas into systems.**
+<i>Building, learning and exploring, one project at a time.</i>
 
 </div>
 
 ---
 
-## 📬 OPEN TO COLLABORATE
-
 <div align="center">
-
-### 🤝 Open to interesting projects, experiments and collaborations.
-
-<br>
-
-`FULL-STACK` · `AI` · `BACKEND` · `CLOUD` · `DEVOPS` · `CREATIVE WEB`
-
-</div>
-
----
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" width="100%" />
-
-<br>
 
 ### BUILT WITH CURIOSITY · IMPROVED THROUGH ITERATION
 
-<br>
-
-<sub>© Mirudhula · Building one system at a time.</sub>
+<sub>© 2026 Mirudhula · Building one system at a time.</sub>
 
 </div>
